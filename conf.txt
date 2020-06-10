@@ -1,0 +1,3 @@
+To: email
+Subject: тема письма
+File Names: picture.jpg, file_with_text.txt, doc.docx
